@@ -1,0 +1,13 @@
+@media(max-width:670px){
+    .main h1{
+        font-size:40px;
+    }
+    .main .fa{
+        position:absolute;
+        top:110px;
+        left:20px;
+    }
+    .main p{
+        color:coral;
+    }
+}
